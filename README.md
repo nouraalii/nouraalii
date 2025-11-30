@@ -11,6 +11,7 @@ Tools: Git, GitHub, Postman, Figma
 Concepts: REST APIs, 3-Tier Architecture, Repository Pattern, UML, SRS
 
 🌟 Featured Projects
+
 🔹 Personalized News Aggregator (Angular + .NET + NLP)
 
 JWT Authentication, User Profiles, Real-Time Updates
