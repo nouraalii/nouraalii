@@ -28,7 +28,7 @@ Reusable Components, Wishlist, Cart
 
 API Integration & Performance Optimization
 
-➡ GitHub Link (https://github.com/nouraalii/jobfair)
+➡ GitHub Link (https://github.com/nouraalii/ECommerce-Angular)
 
 🔹 Store API (ASP.NET Core Web API)
 
